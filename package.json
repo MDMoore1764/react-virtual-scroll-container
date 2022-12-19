@@ -1,0 +1,19 @@
+{
+  "name": "react-virtual-scroll-container",
+  "version": "1.0.0",
+  "description": "A fairly simple and efficient virtual scroll container implementation with, hopefully, enough options to make it moderately useful for general use cases.",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDMoore1764/react-virtual-scroll-container.git"
+  },
+  "author": "MDMoore1764",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MDMoore1764/react-virtual-scroll-container/issues"
+  },
+  "homepage": "https://github.com/MDMoore1764/react-virtual-scroll-container#readme"
+}
